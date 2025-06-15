@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Chat" />
+    <item
+        android:id="@+id/navigation_pembaruan"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Pembaruan" />
+    <item
+        android:id="@+id/navigation_komunitas"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Komunitas" />
+    <item
+        android:id="@+id/navigation_panggilan"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Panggilan" />
+</menu>
